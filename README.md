@@ -1,1 +1,1 @@
-# SOFTWARE
+# SOFTWARE este proyecto contiene la creaciòn de clases para el proyecto UBERPOO en lenguajes de programaciòn como JAVA y PYTHON, todo esto con la finalidad de introducirnos a la prgramaciòn orientada a objetos.
